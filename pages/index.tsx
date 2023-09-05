@@ -8,6 +8,9 @@ export default function Home() {
     <>
       <Layout>
         <Map />
+        <div className="w-full h-20 flex items-center justify-center font-bold">
+          <h1>ダイブローカル</h1>
+        </div>
       </Layout>
     </>
   );
